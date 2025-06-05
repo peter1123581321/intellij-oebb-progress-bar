@@ -22,7 +22,7 @@
 
     <applicationListeners>
         <listener class="software.rabbitgarden.oebbprogressbar.ProgressBarLafManagerListener"
-                  topic="com.intellij.ide.ui.LafManagerListener" />
+                  topic="com.intellij.ide.ui.LafManagerListener"/>
         <listener class="software.rabbitgarden.oebbprogressbar.ProgressBarLafManagerListener"
                   topic="com.intellij.openapi.application.ApplicationActivationListener"/>
     </applicationListeners>
